@@ -1,6 +1,7 @@
 /* Include the padding and border in an element's total width and height */
 * {
     box-sizing: border-box;
+    background: salmon;
 }
 
 /* Remove margins and padding from the list */
